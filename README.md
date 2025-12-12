@@ -8,8 +8,6 @@
 
 ## 機能
 
-✅ **完全な言語サポート**
-
 - 変数と配列 (1 次元・2 次元)
 - 表示文 (`を表示する`)
 - 代入文 (`←`)
@@ -245,8 +243,4 @@ python main.py -v examples/fibonacci.dncl
 
 ## 参考
 
-- [共通テスト手順記述標準言語 (DNCL) の説明](https://www.dnc.ac.jp/albums/abm.php?d=67&f=abm00000819.pdf&n=R4_%E5%85%B1%E9%80%9A%E3%83%86%E3%82%B9%E3%83%88%E6%89%8B%E9%A0%86%E8%A8%98%E8%BF%B0%E6%A8%99%E6%BA%96%E8%A8%80%E8%AA%9E%EF%BC%88DNCL%EF%BC%89%E3%81%AE%E8%AA%AC%E6%98%8E.pdf) - 独立行政法人大学入試センター 2022 年 1 月
-
-## 作者
-
-DNCL Python Implementation
+- [共通テスト手順記述標準言語 (DNCL) の説明](https://www.dnc.ac.jp/albums/abm.php?d=666&f=abm00000819.pdf&n=R4_%E5%85%B1%E9%80%9A%E3%83%86%E3%82%B9%E3%83%88%E6%89%8B%E9%A0%86%E8%A8%98%E8%BF%B0%E6%A8%99%E6%BA%96%E8%A8%80%E8%AA%9E%EF%BC%88DNCL%EF%BC%89%E3%81%AE%E8%AA%AC%E6%98%8E.pdf) - 独立行政法人大学入試センター
