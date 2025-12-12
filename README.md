@@ -26,7 +26,7 @@
 
 ```bash
 # リポジトリのクローン
-git clone <repository-url>
+git clone https://github.com/6Rix6/dncl_implementation.git
 cd dncl_implementation
 
 # Python 3.7以上が必要です
